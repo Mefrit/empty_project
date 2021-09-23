@@ -1,0 +1,24 @@
+{
+    "name": "volga_it_projects",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "done": "^1.1.7",
+        "gulp": "^4.0.2",
+        "gulp-less": "^5.0.0",
+        "gulp-typescript": "^6.0.0-alpha.1",
+        "gulp-watch": "^5.0.1",
+        "less": "^4.1.1",
+        "path": "^0.12.7",
+        "tsc": "^2.0.3"
+    },
+    "devDependencies": {
+        "typescript": "^3.9.7"
+    }
+}
